@@ -1,0 +1,1 @@
+# Fog_Assignement_Pattern
